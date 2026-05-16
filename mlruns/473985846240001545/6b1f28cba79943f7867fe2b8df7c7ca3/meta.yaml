@@ -1,0 +1,14 @@
+artifact_uri: file:D:/lpu/project ml/mlruns/473985846240001545/6b1f28cba79943f7867fe2b8df7c7ca3/artifacts
+end_time: 1769869560201
+entry_point_name: ''
+experiment_id: '473985846240001545'
+lifecycle_stage: active
+run_id: 6b1f28cba79943f7867fe2b8df7c7ca3
+run_name: treasured-midge-283
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769869541818
+status: 3
+tags: []
+user_id: thaku
